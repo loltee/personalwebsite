@@ -1,0 +1,28 @@
+.homePage{
+    background-image: url("https://i5.walmartimages.com/asr/3d21a631-5b1d-407b-b159-eee875d450d0.eac0a99290fbea23218ac51ff47cea0c.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.aboutPage{
+    background-image: url("https://th.bing.com/th/id/R.bc0d40cb25d56466a4a6fc84dacf1ce8?rik=dYsKEgTp%2b7w9pg&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f06%2fDownload-pink-Flower-wallpapers-hd.jpg&ehk=U%2fOlCR5KeEa3AK%2fgFnfZQMpZPQG%2fo650pyu5PRrH8Iw%3d&risl=&pid=ImgRaw&r=0");
+    background-repeat: no-repeat;
+}
+
+.portfolioPage {
+    background-image: url("https://cdn.shopify.com/s/files/1/0274/7429/6892/products/9-28-us_2_750x.jpg?v=1632882759");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contactPage{
+    background-image: url("https://img.rawpixel.com/private/static/images/website/2022-05/rm428-0017.jpg?w=1200&h=1200&dpr=1&fit=clip&crop=default&fm=jpg&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=ec242b62fa6049625526be5b946d5908");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.submitForm{
+    border-style: solid;
+    border-color: blueviolet;
+    margin: 20%;
+}
